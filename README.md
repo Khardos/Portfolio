@@ -15,4 +15,6 @@ To see the map visualizations in the notebook you might need to "Trust the noteb
 ## Home Assistant IoT on Raspberry Pi
 Some dashboard pictures from the Home Assistant system that I'm running at home.
 ![](https://github.com/Khardos/Portfolio/blob/main/Homeassistant3.png) <br>
-
+## Forest industry visualizations
+An example picture of visualizations that I've done related to forest industry several years ago
+![](https://github.com/Khardos/Portfolio/blob/main/drying%20section.png) <br>
