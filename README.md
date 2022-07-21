@@ -1,6 +1,6 @@
 # Portfolio
 Some example data projects that I've done since I started learning data science at end of May 2022. <br>
-Also some other things that I've done.
+Also some other things that I've done. <br>
 Learning progress can be seen at https://github.com/Khardos/Online-learning
 <br>
 ## HSL City bike rides
