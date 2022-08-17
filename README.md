@@ -1,6 +1,8 @@
 # Portfolio
 Some example data projects that I've done since I started learning data science at end of May 2022. <br>
-Also some other things that I've done.
+Also some other things that I've done. <br>
+Learning progress can be seen at https://github.com/Khardos/Online-learning <br>
+Linkedin: https://www.linkedin.com/in/samulikoivu/
 <br>
 ## HSL City bike rides
 This Jupyter notebook contains analysis, manipulation (Python and SQL) and visualization of data related to Helsinki region city bikes in 7/2021 <br>
@@ -15,4 +17,6 @@ To see the map visualizations in the notebook you might need to "Trust the noteb
 ## Home Assistant IoT on Raspberry Pi
 Some dashboard pictures from the Home Assistant system that I'm running at home.
 ![](https://github.com/Khardos/Portfolio/blob/main/Homeassistant3.png) <br>
-
+## Forest industry visualizations
+An example picture of visualizations that I've done related to forest industry several years ago
+![](https://github.com/Khardos/Portfolio/blob/main/drying%20section.png) <br>
