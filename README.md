@@ -5,7 +5,7 @@ Learning progress can be seen at https://github.com/Khardos/Online-learning <br>
 Linkedin: https://www.linkedin.com/in/samulikoivu/
 <br>
 ## HSL City bike rides
-This Jupyter notebook contains analysis, manipulation (Python and SQL) and visualization of data related to Helsinki region city bikes in 7/2021 <br>
+This Jupyter notebook contains data extraction, cleaning, analysis, manipulation (Python and SQL) and visualization of data related to Helsinki region city bikes in 7/2021 <br>
 Click to view code and visualizations: <br>
 https://github.com/Khardos/Portfolio/blob/main/HSL%20city%20bike%20rides.ipynb <br>
 <br>
