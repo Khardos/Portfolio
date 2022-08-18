@@ -5,8 +5,8 @@ Learning progress can be seen at https://github.com/Khardos/Online-learning <br>
 Linkedin: https://www.linkedin.com/in/samulikoivu/
 <br>
 ## HSL City bike rides
-A picture of a short Power BI summary made with data from Helsinki Regional Transport. The Jupyter Notebook linked below explains the details further. 
-![](https://github.com/Khardos/Portfolio/blob/main/Powerbi.PNG)
+A picture of a short Power BI summary made with processed city bike data from Helsinki Regional Transport. The Jupyter Notebook linked below explains the details of the data processing (Python/SQL) further. 
+![](https://github.com/Khardos/Portfolio/blob/main/powerbi.PNG)
 This Jupyter notebook contains data extraction, cleaning, analysis, manipulation (Python and SQL) and visualization of data related to Helsinki region city bikes in 7/2021 <br>
 Click to view code and visualizations: <br>
 https://github.com/Khardos/Portfolio/blob/main/HSL%20city%20bike%20rides.ipynb <br>
