@@ -5,13 +5,16 @@ Learning progress can be seen at https://github.com/Khardos/Online-learning <br>
 Linkedin: https://www.linkedin.com/in/samulikoivu/
 <br>
 ## HSL City bike rides
-This Jupyter notebook contains analysis, manipulation (Python and SQL) and visualization of data related to Helsinki region city bikes in 7/2021 <br>
+This Jupyter notebook contains data extraction, cleaning, analysis, manipulation (Python and SQL) and visualization of data related to Helsinki region city bikes in 7/2021 <br>
+Click to view code and visualizations: <br>
 https://github.com/Khardos/Portfolio/blob/main/HSL%20city%20bike%20rides.ipynb <br>
+<br>
 ![](https://github.com/Khardos/Portfolio/blob/main/City_bike_rides.PNG) <br>
 <br>
 ## Helsinki traffic accidents
 Helsinki traffic accident visualization combines traffic accident data between 2018-2020 and visualizes it based on accident seriousness. <br>
 https://github.com/Khardos/Portfolio/blob/main/Helsinki%20traffic%20accident%20visualization.ipynb <br>
+<br>
 ![](https://github.com/Khardos/Portfolio/blob/main/Traffic_accidents.PNG) <br>
 To see the map visualizations in the notebook you might need to "Trust the notebook" in your browser.
 ## Home Assistant IoT on Raspberry Pi
